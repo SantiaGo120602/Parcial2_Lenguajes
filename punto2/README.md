@@ -1,4 +1,4 @@
-# **Punto dos**
+#**Punto dos**
 
 >* Gramática original
 
@@ -85,40 +85,40 @@ $B^\prime \Rightarrow \in $
 * Conjunto de producciones
 
 
-$S \Rightarrow Buno = \{3,4,5,1\}$
+$S \Rightarrow Buno = [3,4,5,1] $
 
-$S \Rightarrow dosC = \{2\}$
+$S \Rightarrow dosC = [2] $
 
-$S \Rightarrow \in = \{\$\}$
+$S \Rightarrow \in = [$] $
 
-$A \Rightarrow BunotresBC = \{2,3,4,5,1\}$
+$A \Rightarrow BunotresBC = [2,3,4,5,1] $
 
-$A \Rightarrow dosCtresBC = \{2\}$
+$A \Rightarrow dosCtresBC = [2] $
 
-$A \Rightarrow \in tresBC = \{3\}$
+$A \Rightarrow \in tresBC = [3] $
 
-$A \Rightarrow cuatro = \{4\}$
+$A \Rightarrow cuatro = [4] $
 
-$A \Rightarrow \in  = \{\}$
+$A \Rightarrow \in  = [] $
 
-$B \Rightarrow dosCtresBCcincoCseis B^\prime = \{2\}$
+$B \Rightarrow dosCtresBCcincoCseis B^\prime = [2] $
 
-$B \Rightarrow \in tresBCcincoCseis B^\prime = \{3\}$
+$B \Rightarrow \in tresBCcincoCseis B^\prime = [3] $
 
 
-$B \Rightarrow cuatrocincoCseis B^\prime = \{4\}$
+$B \Rightarrow cuatrocincoCseis B^\prime = [4] $
 
-$B \Rightarrow \in cincoCseis B^\prime = \{5\}$
+$B \Rightarrow \in cincoCseis B^\prime = [5] $
 
-$B \Rightarrow \in B^\prime = \{1\}$
+$B \Rightarrow \in B^\prime = [1] $
 
-$C \Rightarrow sieteB = \{7\}$
+$C \Rightarrow sieteB = [7] $
 
-$C \Rightarrow \in  = \{5,6,3,\$\}$
+$C \Rightarrow \in  = [5,6,\$,3] $
 
-$B^\prime \Rightarrow unotresBCcincoCseis B^\prime = \{1\}$
+$B^\prime \Rightarrow unotresBCcincoCseis B^\prime = [1] $
 
-$B^\prime \Rightarrow \in = \{2,3,4,5,1,7,6,\$\}$
+$B^\prime \Rightarrow \in = [2,3,4,5,1,7,\$,6,] $
 
 * Determinar si la gramática es LL(uno):
 
