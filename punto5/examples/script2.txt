@@ -1,0 +1,1 @@
+INSERT INTO asdf (holi, hola, jaja) VALUES (2,2,2);

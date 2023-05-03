@@ -1,0 +1,1 @@
+CREATE TABLE asdf (hola int, holi int, jaja double) ;
