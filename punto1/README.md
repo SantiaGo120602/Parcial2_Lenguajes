@@ -89,13 +89,13 @@ $S \Rightarrow DE = [1, 4, 3]$
 
 $A \Rightarrow dosBtres = [2]$
 
-$A \Rightarrow \in = [3, 4, 6, 5, $ ] $
+$A \Rightarrow \in = [3, 4, 6, \$, 5,  ] $
 
 $B \Rightarrow \in B^\prime = [3, 6, 5, \$, 4 ] $
 
 $B^\prime \Rightarrow cuatroCcinco B^\prime = [4] $
 
-$B^\prime \Rightarrow \in = [3, 6, 5, \$ ] $ 
+$B^\prime \Rightarrow \in = [3, 6, \$, 5] $ 
 
 $C \Rightarrow seisAB = [6] $
 
