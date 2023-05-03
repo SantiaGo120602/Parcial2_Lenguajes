@@ -93,7 +93,7 @@ $A \Rightarrow \in = [3, 4, 6, 5, \$ ]$
 
 $B \Rightarrow \in B^\prime = [3, 6, 5, \$, 4 ]$
 
-$B^\prime \Rightarrow cuatroCcincoB^\prime = [4]$
+$B^\prime \Rightarrow cuatroCcinco B^\prime = [4]$
 
 $B^\prime \Rightarrow \in = [3, 6, 5, \$ ]$ 
 
