@@ -65,40 +65,77 @@ term : ((DOUBLE) | (INT) | (string) | (BOOL) | (NULL) | (column_name) | (LEFT_PA
 compare : ('<=' | '>=' | '<' | '>' | '=' | '!=');
 
 
+
 INSERT : 'INSERT';
+
 INTO : 'INTO';
+
 VALUES : 'VALUES';
+
 READ : 'READ';
+
 UPDATE : 'UPDATE';
+
 SET : 'SET';
+
 DISTINCT : 'DISTINCT';
+
 COMA : ',';
+
 BOOL : ('True' | 'False')
+
 OR : 'OR';
+
 AND : 'AND';
+
 AS : 'AS';
+
 QUOTE : '\'';
+
 FROM : 'FROM';
+
 WHERE : 'WHERE'
+
 ALIAS : NAME;
+
 DELETE : 'DELETE';
+
 DROP : 'DROP';
+
 ALL : 'ALL';
+
 IS : 'IS';
+
 NOT : 'NOT';
+
 NULL : 'NULL';
+
 BETWEEN : 'BETWEEN';
+
 LIKE : 'LIKE';
+
 IN : 'IN';
+
 PRIMARY_KEY : 'PRIMARY KEY' ;
+
 LEFT_PAR : '(' ;
+
 RIGHT_PAR : ')' ;
+
 SEMICOLON : ';' ;
+
 TABLE : 'TABLE' ;
+
 CREATE : 'CREATE' ;
+
 NAME : ALPHA ( ALPHA | DIGIT | )* ;
+
 DIGIT : [0-9];
+
 DOUBLE : ('-')? DIGIT+ ([.] DIGIT+)? ;
+
 INT : ('-')? DIGIT+;
+
 ALPHA : [a-zA-Z_];
+
 WS : [ \t\r\n]+ -> skip ; 
