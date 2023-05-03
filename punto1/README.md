@@ -1,30 +1,53 @@
 #**Punto 1**
 
 >* Gramática original
->$S \Rightarrow ABC$
->$S \Rightarrow DE$
->$A \Rightarrow dosBtres$
+>
+$S \Rightarrow ABC$
+
+$S \Rightarrow DE$
+
+$A \Rightarrow dosBtres$
+
 $A \Rightarrow \in$
+
 $B \Rightarrow BcuatroCcinco$
+
 $B \Rightarrow \in$
+
 $C \Rightarrow seisAB$
+
 $C \Rightarrow \in $
+
 $D \Rightarrow unoAE $
+
 $D \Rightarrow B $
+
 $E \Rightarrow tres $
 
 >* Gramática sin recursividad por la izquierda
+
 $S \Rightarrow ABC$
+
 $S \Rightarrow DE$
+
 $A \Rightarrow dosBtres$
+
 $A \Rightarrow \in$
+
 $B \Rightarrow \in B^\prime$
+
 $B^\prime \Rightarrow cuatroCcincoB^\prime$
+
 $B^\prime \Rightarrow \in$
+
 $C \Rightarrow seisAB$
+
 $C \Rightarrow \in $
+
 $D \Rightarrow unoAE $
+
 $D \Rightarrow B $
+
 $E \Rightarrow tres $
 
 * Conjunto de primeros
