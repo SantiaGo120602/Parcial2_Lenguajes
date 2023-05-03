@@ -110,4 +110,5 @@ $E \Rightarrow tres = \{3\}$
 
 
 * Determinar si la gramática es LL(1):
+
 La gramática sí es LL(1) por que no tiene recursividad por la izquierda ni factores comunes por la izquierda. Tampoco se ha encontrado una cadena que genere más de dos árboles de derivación, por lo que no es ambigua.
