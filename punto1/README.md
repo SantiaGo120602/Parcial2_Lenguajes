@@ -83,30 +83,29 @@ $E \Rightarrow tres $
 
 * Conjunto de producciones
 
+$S \Rightarrow ABC = [2, 4, 6]$
 
-$S \Rightarrow ABC = \{2, 4, 6\}$
+$S \Rightarrow DE = [1, 4, 3]$
 
-$S \Rightarrow DE = \{1, 4, 3\}$
+$A \Rightarrow dosBtres = [2]$
 
-$A \Rightarrow dosBtres = \{2\}$
+$A \Rightarrow \in = [3, 4, 6, 5, \$ ]$
 
-$A \Rightarrow \in = \{3, 4, 6, 5, \$ \}$
+$B \Rightarrow \in B^\prime = [3, 6, 5, \$, 4 ]$
 
-$B \Rightarrow \in B^\prime = \{3, 6, 5, \$, 4 \}$
+$B^\prime \Rightarrow cuatroCcincoB^\prime = [4]$
 
-$B^\prime \Rightarrow cuatroCcinco B^\prime = \{4\}$
+$B^\prime \Rightarrow \in = [3, 6, 5, \$ ]$ 
 
-$B^\prime \Rightarrow \in = \{3, 6, 5, \$ \}$ 
-
-$C \Rightarrow seisAB = \{6\}$
+$C \Rightarrow seisAB = [6]$
 
 $C \Rightarrow \in $
 
-$D \Rightarrow unoAE = \{1\}$
+$D \Rightarrow unoAE = [1]$
 
-$D \Rightarrow B = \{4\}$
+$D \Rightarrow B = [4]$
 
-$E \Rightarrow tres = \{3\}$
+$E \Rightarrow tres = [3]$
 
 
 * Determinar si la gramática es LL(1):
