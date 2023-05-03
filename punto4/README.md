@@ -1,4 +1,4 @@
-#**Punto 4**
+# **Punto 4**
 
 ### **A continuación se presenta la gramática para un lenguaje de programación que pérmite hacer las operaciones de CRUD**
 
