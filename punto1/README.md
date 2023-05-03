@@ -1,9 +1,9 @@
 #**Punto 1**
 
 >* Gramática original
-$S \Rightarrow ABC$
-$S \Rightarrow DE$
-$A \Rightarrow dosBtres$
+>$S \Rightarrow ABC$
+>$S \Rightarrow DE$
+>$A \Rightarrow dosBtres$
 $A \Rightarrow \in$
 $B \Rightarrow BcuatroCcinco$
 $B \Rightarrow \in$
