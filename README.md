@@ -1,6 +1,5 @@
 # Parcial2_Lenguajes
 ### Lenguajes de programación
-### Bizon
 ### Santiago Javier Vivas
 ### Samuel Medina Mora
 ### Julieth Manzano
