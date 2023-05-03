@@ -1,4 +1,10 @@
 # Parcial2_Lenguajes
+### Lenguajes de programación
+### Bizon
+### Santiago Javier Vivas
+### Samuel Medina Mora
+### Julieth Manzano
+### Alejandro Toloza
 
 En este repositrio se encuentra implementado un analizador sintáctico descendente LL(*) para las gramáticas encontradas en los puntos 1 a 3. Así como sus conjuntos de siguientes, primeros y producción. En el punto 4 se encuentra descrita la gramática para un lenguaje de dominio específico que permite hacer las operaciones de CRUD sobre una base de datos. Finalmente, en el punto5 se implementa un compildor para el lenguaje descrito en el punto 4 usando antlr4 y visitor. En la misma carpeta se observan algunos scripts de prueba.
 
@@ -39,4 +45,4 @@ Esto mostrará con una interfaz gráfica el árbol de sintaxis abstracta para la
 ```bash
 java Calc <script_a_ejecutar>.txt
 ```
-En la carpeta de ejemplos se encuentrar algunos scripts que se pueden ejecutar usando el comando especificado arriba. También puede crear sus propios scrips
+En la carpeta de ejemplos se encuentrar algunos scripts que se pueden ejecutar usando el comando especificado arriba. También puede crear sus propios scripts
